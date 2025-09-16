@@ -15,9 +15,7 @@ venv/
 env/
 .venv/
 
-# Data
-data/processed/
-data/raw/  # optional: ignore if you don't want raw data in GitHub
+
 
 # Logs
 *.log
