@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data
+data/processed/
+data/raw/  # optional: ignore if you don't want raw data in GitHub
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
